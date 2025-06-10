@@ -47,6 +47,8 @@ Esto facilitara posteriormente la soldadura de los alambres, facilitando que est
 
 6.- Una vez unido todo, es necesario soldar las partes que van a la base de madera, entre ellas hay un par que baja desde la placa preperforada hacia la pieza de madera,
 en este segmento es necesario soldar el jack de poder.
+
+
 ![jack_corrient](https://github.com/user-attachments/assets/55a3d4d2-9010-4b4b-9742-0289cb9338e6)
 
 7.- Una vez todo soldado probar enchufar y echar andar para testear. 
