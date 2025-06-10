@@ -37,8 +37,8 @@ unirlos entre ellos a traves del comun (GND o VCC dependiendo del modelo de disp
 
 disponerlos de manera alternada dejando uno adelante y otro un poco más atras:
 
-display1 ---------- display3   
---------- display2 ---------- display 4  
+display1 ---------- display3 ---------  
+--------- display2 ---------- display4  
 
 Esto facilitara posteriormente la soldadura de los alambres, facilitando que estos no se topen entre ellos.
 
