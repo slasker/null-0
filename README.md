@@ -13,6 +13,17 @@ Lamentablemente en el transcurso del tiempo el componente de alambre y displays 
 
 ![Imagen de WhatsApp 2025-06-02 a las 14 02 11_0b480e27](https://github.com/user-attachments/assets/49f7f0da-b799-4f45-bcfc-02bb67bb8714)
 
+
+Este trabajo se basa en un tutorial que al parecer ya no se encuentra disponible en la web Electronics-project-hub.com, el cual usa la libreria "SevSeg.h" para facilitar las conexiones. Sin embargo se encontro otro tutorial muy similar
+
+https://projecthub.arduino.cc/SAnwandter1/programming-4-digit-7-segment-led-display-5c4617
+
+Se adjunta imagen de referencia de conexiones.
+
+
+![7-segment-display-interfacing--768x816](https://github.com/user-attachments/assets/20d3d5dc-18f4-4063-9deb-ab8154d992ad)
+
+
 Lo siguiente es una guia con recomendaciones sobre la re construcción del aparato:
 
 0.- Armar Arduino Barebones en un protoboard. Una vez armado el Arduino probar la comunicación USB a TTL cargando un sketch sencillo. 
