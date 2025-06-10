@@ -31,6 +31,8 @@ Se deja el siguiente enlace de referencia, sientase libre de buscar cualquier ot
 
 https://docs.arduino.cc/retired/hacking/hardware/building-an-arduino-on-a-breadboard/
 
+![25844c0c0e8684550735d6f25012063d](https://github.com/user-attachments/assets/941cf386-6652-4f76-8c3c-2a4d36f904d4)
+
 1.- Subir sketch a arduino Barebones (en protoboard) controlando 1 display 7 segmentos
 
 2.- Subir sketch a arduino Barebones (en protoboard) controlando los 4 display 7 segmentos. 
@@ -53,14 +55,13 @@ display1 ---------- display3 ---------
 
 Esto facilitara posteriormente la soldadura de los alambres, facilitando que estos no se topen entre ellos.
 
-5.- Comenzar a soldar los pines de los display con los alambres, primero soldar los alambres a los display, y solo al final comenzar a unir con arduino barebones. 
+5.- Comenzar a soldar los pines de los display con los alambres, primero soldar los alambres a los display, y solo al final comenzar a unir con arduino barebones. Luego soldar el buzzer que va en el pin Analogo 1.
 
 6.- Una vez unido todo, es necesario soldar las partes que van a la base de madera, entre ellas hay un par que baja desde la placa preperforada hacia la pieza de madera,
 en este segmento es necesario soldar el jack de poder.
 
-
 ![jack_corrient](https://github.com/user-attachments/assets/55a3d4d2-9010-4b4b-9742-0289cb9338e6)
 
-7.- Una vez todo soldado probar enchufar y echar andar para testear. 
+7.- Una vez todo soldado, enchufar y echar andar para testear. 
 
 
